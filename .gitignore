@@ -1,0 +1,5 @@
+dist
+node_modules
+blocklist.json
+requests.txt
+.env
